@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE_Project/4/ZombieDefense/Content/InfinityBladeGrassLands/Maps/ElvenRuins_BuiltData.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap",
+				"E:/UE_Project/4/ZombieDefense/Content/Characters/BP_PlayerBase.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Enemy/Zombie/AI/BP_ZombieAI.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Characters/HUD/WidgetBP_Shop.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/ThirdPersonBP/ThirdPersonOverview.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Jungle/Jungle_sharedassets/Grass_LayerInfo.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Jungle/Jungle_sharedassets/Gravel_LayerInfo.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Jungle/Jungle_sharedassets/Leaf_LayerInfo.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Jungle/Jungle_sharedassets/Sand_LayerInfo.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Jungle/Jungle_BuiltData.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Materials/M_Ocean.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Materials/M_Jungle.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Water_Sea_01_N.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Grass_D.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Grass_N.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Gravel_D_R.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Gravel_N.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Leaf_D_R.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Leaf_N.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/Maps/Textures/T_Sand_D_R.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset",
+				"E:/UE_Project/4/ZombieDefense/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"E:/UE_Project/4/ZombieDefense/Content/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom.uasset"
+			]
+		}
+	]
+}
